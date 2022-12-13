@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://inspiredbysteve.viget.com/sitemap.xml
